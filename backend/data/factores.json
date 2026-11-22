@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1,
+    "categoria": "Ecológico",
+    "descripcion": "Disminucion del caudal en fuentes hidricas por fenomenos climaticos en zonas arroceras",
+    "tipo": "Amenaza",
+    "impacto": "Alto",
+    "plazo": "Corto plazo"
+  },
+  {
+    "id": 2,
+    "categoria": "Económico",
+    "descripcion": "Incremento en el costo de fertilizantes y agroinsumos importados",
+    "tipo": "Amenaza",
+    "impacto": "Alto",
+    "plazo": "Corto plazo"
+  },
+  {
+    "id": 3,
+    "categoria": "Tecnológico",
+    "descripcion": "Adopcion de sensores de humedad y sistemas de riego eficiente por gravedad",
+    "tipo": "Oportunidad",
+    "impacto": "Alto",
+    "plazo": "Mediano plazo"
+  },
+  {
+    "id": 4,
+    "categoria": "Social",
+    "descripcion": "Creciente demanda de consumidores por arroz ecologico y practicas sostenibles",
+    "tipo": "Oportunidad",
+    "impacto": "Medio",
+    "plazo": "Largo plazo"
+  },
+  {
+    "id": 5,
+    "categoria": "Legal",
+    "descripcion": "Actualizacion en la regulacion ambiental sobre vertimientos y disposicion de cascarilla",
+    "tipo": "Amenaza",
+    "impacto": "Medio",
+    "plazo": "Mediano plazo"
+  },
+  {
+    "id": 6,
+    "categoria": "Político",
+    "descripcion": "Incentivos gubernamentales para proyectos agroindustriales con certificacion verde",
+    "tipo": "Oportunidad",
+    "impacto": "Medio",
+    "plazo": "Corto plazo"
+  },
+  {
+    "id": 1793059027927,
+    "categoria": "Político",
+    "descripcion": "Subida de impuestos por proceso de ley colombiana",
+    "tipo": "Amenaza",
+    "impacto": "Alto",
+    "plazo": "Mediano plazo"
+  },
+  {
+    "id": 1793060359558,
+    "categoria": "Político",
+    "descripcion": "El próximo presidente aprueba un proyecto que aumenta los aranceles en el arroz",
+    "tipo": "Amenaza",
+    "impacto": "Alto",
+    "plazo": "Corto plazo"
+  },
+  {
+    "id": 7,
+    "categoria": "Político",
+    "descripcion": "Tratados de libre comercio que permiten la entrada de arroz subsidiado extranjero",
+    "tipo": "Amenaza",
+    "impacto": "Alto",
+    "plazo": "Mediano plazo"
+  },
+  {
+    "id": 8,
+    "categoria": "Político",
+    "descripcion": "Programas del Ministerio de Agricultura para subsidiar tasas de interes en creditos agrarios",
+    "tipo": "Oportunidad",
+    "impacto": "Medio",
+    "plazo": "Corto plazo"
+  },
+  {
+    "id": 9,
+    "categoria": "Político",
+    "descripcion": "Inestabilidad politica regional que afecta las rutas de transporte de carga pesada",
+    "tipo": "Amenaza",
+    "impacto": "Alto",
+    "plazo": "Corto plazo"
+  },
+  {
+    "id": 10,
+    "categoria": "Económico",
+    "descripcion": "Fluctuacion en la tasa de cambio del dolar afectando la compra de maquinaria agricola",
+    "tipo": "Amenaza",
+    "impacto": "Medio",
+    "plazo": "Corto plazo"
+  },
+  {
+    "id": 11,
+    "categoria": "Económico",
+    "descripcion": "Apertura de nuevos mercados de exportacion para arroz gourmet y con sello de sostenibilidad",
+    "tipo": "Oportunidad",
+    "impacto": "Alto",
+    "plazo": "Largo plazo"
+  },
+  {
+    "id": 12,
+    "categoria": "Económico",
+    "descripcion": "Inflacion general que reduce el poder adquisitivo de los hogares colombianos",
+    "tipo": "Amenaza",
+    "impacto": "Medio",
+    "plazo": "Corto plazo"
+  },
+  {
+    "id": 13,
+    "categoria": "Social",
+    "descripcion": "Tendencia de alimentacion saludable que incrementa el consumo de arroz integral y fortificado",
+    "tipo": "Oportunidad",
+    "impacto": "Alto",
+    "plazo": "Mediano plazo"
+  },
+  {
+    "id": 14,
+    "categoria": "Social",
+    "descripcion": "Escasez de mano de obra joven en el campo debido a la migracion hacia las ciudades",
+    "tipo": "Amenaza",
+    "impacto": "Alto",
+    "plazo": "Mediano plazo"
+  },
+  {
+    "id": 15,
+    "categoria": "Social",
+    "descripcion": "Programas comunitarios de formacion campesina en conjunto con comunidades locales del Valle",
+    "tipo": "Oportunidad",
+    "impacto": "Medio",
+    "plazo": "Largo plazo"
+  },
+  {
+    "id": 16,
+    "categoria": "Tecnológico",
+    "descripcion": "Uso de imagenes satelitales y drones para el monitoreo de plagas en cultivos de arroz",
+    "tipo": "Oportunidad",
+    "impacto": "Alto",
+    "plazo": "Corto plazo"
+  },
+  {
+    "id": 17,
+    "categoria": "Tecnológico",
+    "descripcion": "Modernizacion de lineas de trillado y pulido de grano con menor consumo energetico",
+    "tipo": "Oportunidad",
+    "impacto": "Medio",
+    "plazo": "Mediano plazo"
+  },
+  {
+    "id": 18,
+    "categoria": "Tecnológico",
+    "descripcion": "Fallas o ciberataques en los sistemas de logistica y control de inventarios de la planta",
+    "tipo": "Amenaza",
+    "impacto": "Medio",
+    "plazo": "Corto plazo"
+  },
+  {
+    "id": 19,
+    "categoria": "Ecológico",
+    "descripcion": "Aparicion de nuevas plagas resistentes por alteraciones en la temperatura promedio",
+    "tipo": "Amenaza",
+    "impacto": "Alto",
+    "plazo": "Corto plazo"
+  },
+  {
+    "id": 20,
+    "categoria": "Ecológico",
+    "descripcion": "Aprovechamiento de la cascarilla de arroz para la generacion de biomasa y energia renovable",
+    "tipo": "Oportunidad",
+    "impacto": "Alto",
+    "plazo": "Largo plazo"
+  },
+  {
+    "id": 21,
+    "categoria": "Ecológico",
+    "descripcion": "Degradacion y salinizacion de los suelos de cultivo por uso continuo de agroquimicos",
+    "tipo": "Amenaza",
+    "impacto": "Alto",
+    "plazo": "Largo plazo"
+  },
+  {
+    "id": 22,
+    "categoria": "Ecológico",
+    "descripcion": "Certificacion de carbono neutro que posiciona a la marca como referente de sostenibilidad",
+    "tipo": "Oportunidad",
+    "impacto": "Medio",
+    "plazo": "Mediano plazo"
+  },
+  {
+    "id": 23,
+    "categoria": "Legal",
+    "descripcion": "Nueva ley de etiquetado nutricional frontal y sellos de advertencia en alimentos",
+    "tipo": "Amenaza",
+    "impacto": "Bajo",
+    "plazo": "Corto plazo"
+  },
+  {
+    "id": 24,
+    "categoria": "Legal",
+    "descripcion": "Beneficios tributarios y exenciones fiscales por inversion en tecnologias de produccion limpia",
+    "tipo": "Oportunidad",
+    "impacto": "Alto",
+    "plazo": "Mediano plazo"
+  },
+  {
+    "id": 25,
+    "categoria": "Legal",
+    "descripcion": "Restricciones sanitarias del ICA sobre el transporte y movilizacion interdepartamental de semillas",
+    "tipo": "Amenaza",
+    "impacto": "Medio",
+    "plazo": "Corto plazo"
+  },
+  {
+    "id": 26,
+    "categoria": "Legal",
+    "descripcion": "Cumplimiento de estandares internacionales de seguridad y salud en el trabajo agricola",
+    "tipo": "Oportunidad",
+    "impacto": "Bajo",
+    "plazo": "Largo plazo"
+  },
+  {
+    "id": 1793063206480,
+    "categoria": "Político",
+    "descripcion": "Prueba",
+    "tipo": "Amenaza",
+    "impacto": "Alto",
+    "plazo": "Largo plazo"
+  }
+]

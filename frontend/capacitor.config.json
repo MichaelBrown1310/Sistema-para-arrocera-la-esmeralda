@@ -1,0 +1,9 @@
+{
+  "appId": "co.corporacion.risklens",
+  "appName": "RiskLens",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  }
+}

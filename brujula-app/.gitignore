@@ -1,0 +1,9 @@
+node_modules
+dist
+dist-demo
+android
+ios
+backend/.venv
+backend/brujula.db
+__pycache__
+.pytest_cache
